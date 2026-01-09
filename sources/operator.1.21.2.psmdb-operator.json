@@ -68,12 +68,6 @@
             "status": "available",
             "critical": false
           },
-          "7.0.12-7": {
-            "image_path": "percona/percona-server-mongodb:7.0.12-7",
-            "image_hash": "7f00e19878bd143119772cd5468f1f0f9857dfcd2ae2f814d52ef3fa7cff6899",
-            "status": "available",
-            "critical": false
-          },
           "6.0.25-20": {
             "image_path": "percona/percona-server-mongodb:6.0.25-20",
             "image_hash": "0254c10fb8c249c108cd0a6e5885dfe76785e8fdd6ceb23ce98854234672e5d6",
