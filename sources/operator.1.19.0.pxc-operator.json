@@ -148,8 +148,8 @@
         "operator": {
           "1.19.0": {
             "image_path": "percona/percona-xtradb-cluster-operator:1.19.0",
-            "image_hash": "4f3e0823af80488ff2f5d1e8fc034f5638a78bdcbd431610daccd4dc3c2a7a03",
-            "image_hash_arm64": "b747573292d44cf1d93e4e3cb289ed764a7914fdab98ef4824bb1517c28e4760",
+            "image_hash": "6ccbac5e74f5b5309fd4788c5b8d91d5abd01850a4a356ad9eff9f82d20afb51",
+            "image_hash_arm64": "1ed2a5ab22ee7588aa17ec2339876dc72c9724dc9a81506ff449a2b1aa085024",
             "status": "recommended",
             "critical": false
           }
